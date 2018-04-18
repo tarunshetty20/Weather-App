@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather-App</string>
+    <string name="default_location">Location</string>
+    <string name="default_temp">TEMP?</string>
+    <string name="change_city_description">Click Here to Change City</string>
+    <string name="weather_description">This is the weather symbol</string>
+    <string name="back_button_description">Dismiss Change City Screen</string>
+    <string name="get_weather">City name ? </string>
+    <string name="default_query">Enter city name</string>
+    <string name="title_activity_change_city_layout">change_city_layout</string>
+</resources>
